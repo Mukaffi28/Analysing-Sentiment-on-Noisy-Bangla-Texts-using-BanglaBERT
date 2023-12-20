@@ -19,4 +19,11 @@ Dataset link: https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-anal
 
 The BanglaBERT model from csebuetnlp is chosen for its effectiveness in understanding and classifying sentiment in Bangla text.
 
+### Performance Evaluation:
+
+- Evaluate the model using fundamental metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-score
 
