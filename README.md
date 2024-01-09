@@ -13,7 +13,7 @@ This repository contains code and resources for a sentiment analysis project usi
 ## Dataset
 
 The SentNoB dataset is employed for training and evaluation, with labels '0' for neutral, '1' for positive, and '2' for negative sentiments.<Br>
-Dataset link: https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts 
+Dataset link: <a href="https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts">SentNoB </a> 
 
 ## Model
 
